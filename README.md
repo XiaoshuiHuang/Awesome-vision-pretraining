@@ -11,6 +11,7 @@
 2022
 
 [Versatile Multi-Modal Pre-Training for Human-Centric Perception](https://arxiv.org/pdf/2203.13815.pdf) CVPR 2022, [***]
+
 [Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling](https://arxiv.org/abs/2111.14819) CVPR 2022, [**]
 
 2021
