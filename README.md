@@ -18,6 +18,10 @@
 
 [Unsupervised Point Cloud Pre-Training via Occlusion Completion](https://arxiv.org/abs/2010.01089) ICCV 2021, [**]
 
+[Contrastive Multimodal Fusion with TupleInfoNCE](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Contrastive_Multimodal_Fusion_With_TupleInfoNCE_ICCV_2021_paper.pdf) ICCV 2021, [**]
+
+[Pri3D: Can 3D Priors Help 2D Representation Learning?](https://arxiv.org/pdf/2104.11225.pdf) ICCV 2021, [**]
+
 2020
 
 [PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding](https://arxiv.org/abs/2007.10985) ECCV 2020, [**]
