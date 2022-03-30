@@ -8,7 +8,7 @@
 
  
 # Leaning paradigm
-[Versatile Multi-Modal Pre-Training for Human-Centric Perception](https://arxiv.org/pdf/2203.13815.pdf) 2022 [***]
+[Versatile Multi-Modal Pre-Training for Human-Centric Perception](https://arxiv.org/pdf/2203.13815.pdf) 2022, [***]
 
 
 
