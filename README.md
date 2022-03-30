@@ -22,6 +22,8 @@
 
 [Pri3D: Can 3D Priors Help 2D Representation Learning?](https://arxiv.org/pdf/2104.11225.pdf) ICCV 2021, [**]
 
+[P4Contrast: Contrastive Learning with Pairs of Point-Pixel Pairs for RGB-D Scene Understanding](https://arxiv.org/pdf/2012.13089.pdf) arXiv 2021, [*]
+
 2020
 
 [PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding](https://arxiv.org/abs/2007.10985) ECCV 2020, [**]
