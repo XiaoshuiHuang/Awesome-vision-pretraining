@@ -1,9 +1,10 @@
 # Recent Advances in Vision Pre-training
 
 
-* [Model design](#Model design)
+## Table of Contents
 
-* [Leaning paradigm](#Leaning paradigm)
+* [Leaning paradigm](#leaning-paradigm)
+* [Model design](#model-design)
 
  
 # Leaning paradigm
