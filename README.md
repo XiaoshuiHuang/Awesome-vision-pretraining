@@ -14,6 +14,10 @@
 
 [Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling](https://arxiv.org/abs/2111.14819) CVPR 2022, [**]
 
+[CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding](https://arxiv.org/pdf/2203.00680.pdf) CVPR 2022, [**]
+
+[PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413) CVPR 2022, [**]
+
 2021
 
 [Unsupervised Point Cloud Pre-Training via Occlusion Completion](https://arxiv.org/abs/2010.01089) ICCV 2021, [**]
@@ -22,6 +26,7 @@
 
 [Pri3D: Can 3D Priors Help 2D Representation Learning?](https://arxiv.org/pdf/2104.11225.pdf) ICCV 2021, [**]
 
+[Learning Transferable Features for Point Cloud Detection via 3D Contrastive Co-training](https://proceedings.neurips.cc/paper/2021/file/b3b25a26a0828ea5d48d8f8aa0d6f9af-Paper.pdf) NeurIPS 2021, [**]
 
 2020
 
@@ -29,11 +34,16 @@
 
 [PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding](https://arxiv.org/abs/2007.10985) ECCV 2020, [**]
 
+
+2019
+
+[Self-Supervised Deep Learning on Point Clouds by Reconstructing Space](https://arxiv.org/abs/1901.08396) NuerIPS 2019, [**]
+
 2018
 
-[Representation Learning with Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf) 2018, [***]
+[Representation Learning with Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf) NeurIPS 2018, [***]
 
-
+[Learning Representations and Generative Models for 3D Point Clouds](https://arxiv.org/pdf/1707.02392.pdf)  ICML 2018, [*]
 
 
 
