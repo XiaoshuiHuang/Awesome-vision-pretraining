@@ -48,3 +48,13 @@
 
 
 # Model design
+
+2022
+
+[Swin Transformer V2: Scaling Up Capacity and Resolution](https://arxiv.org/abs/2111.09883) CVPR 2022, [**]
+
+2021
+
+[Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030) ICCV 2021, [***]
+
+[MLP-Mixer: An all-MLP Architecture for Vision](https://proceedings.neurips.cc//paper/2021/file/cba0a4ee5ccd02fda0fe3f9a3e7b89fe-Paper.pdf) NeurIPS 2021, [***]
