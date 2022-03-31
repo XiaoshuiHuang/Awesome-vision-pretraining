@@ -1,5 +1,6 @@
 # Recent Advances in Vision Pre-training
 
+If you want to contribute this repository, please fork and revise, and create a pull request for a update. Alternatively, you can contact Xiaoshui Huang[huangxiaoshui@pjlab.org.cn] to do the update. 
 
 ## Table of Contents
 
