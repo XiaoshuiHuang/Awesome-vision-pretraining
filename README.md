@@ -13,11 +13,20 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 [Versatile Multi-Modal Pre-Training for Human-Centric Perception](https://arxiv.org/pdf/2203.13815.pdf) CVPR 2022, [***]
 
-[Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling](https://arxiv.org/abs/2111.14819) CVPR 2022, [**]
-
 [CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding](https://arxiv.org/pdf/2203.00680.pdf) CVPR 2022, [**]
 
 [PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413) CVPR 2022, [**]
+
+[PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision](https://arxiv.org/pdf/2203.15625.pdf) CVPR 2022, [**]
+
+[Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling](https://arxiv.org/abs/2111.14819) CVPR 2022, [**]
+
+[Masked Discrimination for Self-Supervised Learning on Point Clouds](https://arxiv.org/pdf/2203.11183.pdf) arXiv 2022, [**]
+
+[Masked Autoencoders for Point Cloud Self-supervised Learning](https://arxiv.org/pdf/2203.06604.pdf) arXiv 2022, [*]
+
+[Implicit Autoencoder for Point Cloud Self-supervised Representation Learning](https://arxiv.org/abs/2201.00785) arXiv 2022, [**]
+
 
 2021
 
