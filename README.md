@@ -27,7 +27,7 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 [Pri3D: Can 3D Priors Help 2D Representation Learning?](https://arxiv.org/pdf/2104.11225.pdf) ICCV 2021, [**]
 
-[Learning Transferable Features for Point Cloud Detection via 3D Contrastive Co-training](https://proceedings.neurips.cc/paper/2021/file/b3b25a26a0828ea5d48d8f8aa0d6f9af-Paper.pdf) NeurIPS 2021, [**]
+[Learning Transferable Features for Point Cloud Detection via 3D Contrastive Co-training](https://proceedings.neurips.cc/paper/2021/file/b3b25a26a0828ea5d48d8f8aa0d6f9af-Paper.pdf) NeurIPS 2021, [*]
 
 2020
 
