@@ -27,6 +27,9 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 [Implicit Autoencoder for Point Cloud Self-supervised Representation Learning](https://arxiv.org/abs/2201.00785) arXiv 2022, [**]
 
+[PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision](https://arxiv.org/pdf/2203.15625.pdf), CVPR 2022, [**]
+
+[RotoGrad: Gradient Homogenization in Multitask Learning](https://arxiv.org/pdf/2103.02631.pdf) ICLR 2022, [**]
 
 2021
 
@@ -68,3 +71,7 @@ If you want to contribute this repository, please fork and revise, and create a 
 [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030) ICCV 2021, [***]
 
 [MLP-Mixer: An all-MLP Architecture for Vision](https://proceedings.neurips.cc//paper/2021/file/cba0a4ee5ccd02fda0fe3f9a3e7b89fe-Paper.pdf) NeurIPS 2021, [***]
+
+[CoAtNet: Marrying Convolution and Attention for All Data Sizes](https://arxiv.org/abs/2106.04803) NeurIPS 2021, [***]
+
+
