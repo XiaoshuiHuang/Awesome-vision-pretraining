@@ -6,6 +6,7 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 * [Leaning paradigm](#leaning-paradigm)
 * [Model design](#model-design)
+* [Fine tune](#Fine-tune)
 
  
 # Leaning paradigm
@@ -31,6 +32,7 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 [X-Learner: Learning Cross Sources and Tasks for Universal Visual Representation](https://arxiv.org/pdf/2203.08764.pdf) arXiv 2022, [**]
 
+[A Unified Query-based Paradigm for Point Cloud Understanding](https://arxiv.org/pdf/2203.01252.pdf) arXiv 2022, [**]
 
 2021
 
@@ -42,6 +44,7 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 [Learning Transferable Features for Point Cloud Detection via 3D Contrastive Co-training](https://proceedings.neurips.cc/paper/2021/file/b3b25a26a0828ea5d48d8f8aa0d6f9af-Paper.pdf) NeurIPS 2021, [*]
 
+ 
 2020
 
 [P4Contrast: Contrastive Learning with Pairs of Point-Pixel Pairs for RGB-D Scene Understanding](https://arxiv.org/pdf/2012.13089.pdf) arXiv 2020, [*]
@@ -75,4 +78,10 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 [CoAtNet: Marrying Convolution and Attention for All Data Sizes](https://arxiv.org/abs/2106.04803) NeurIPS 2021, [***]
 
+
+# Fine tune
+
+2022
+
+[Visual Prompt Tuning](https://arxiv.org/pdf/2203.12119.pdf) arXiv 2022, [**]
 
