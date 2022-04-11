@@ -70,6 +70,8 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 [Swin Transformer V2: Scaling Up Capacity and Resolution](https://arxiv.org/abs/2111.09883) CVPR 2022, [**]
 
+[MetaFormer is Actually What You Need for Vision](https://arxiv.org/pdf/2111.11418.pdf) CVPR 2022, [**]
+
 2021
 
 [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030) ICCV 2021, [***]
