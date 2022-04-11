@@ -10,6 +10,7 @@ If you want to contribute this repository, please fork and revise, and create a 
 
  
 # Leaning paradigm
+
 2022
 
 [Versatile Multi-Modal Pre-Training for Human-Centric Perception](https://arxiv.org/pdf/2203.13815.pdf) CVPR 2022, [***]
