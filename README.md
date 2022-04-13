@@ -72,6 +72,10 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 2022
 
+[Learning Patch-to-Cluster Attention in Vision Transformer](https://arxiv.org/pdf/2203.11987.pdf) arXiv 2022, [**]
+
+[BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086) 
+
 [An Image Patch is a Wave: Phase-Aware Vision MLP](https://arxiv.org/pdf/2111.12294.pdf)  CVPR 2022, [**]
 
 [How Do Vision Transformers Work?](https://arxiv.org/abs/2202.06709) ICLR 2022, [***]
@@ -96,6 +100,8 @@ If you want to contribute this repository, please fork and revise, and create a 
 # Fine tune
 
 2022
+
+[Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557) CVPR 2022, [**]
 
 [Visual Prompt Tuning](https://arxiv.org/pdf/2203.12119.pdf) arXiv 2022, [**]
 
