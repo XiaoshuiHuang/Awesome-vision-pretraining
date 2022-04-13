@@ -35,6 +35,9 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 [A Unified Query-based Paradigm for Point Cloud Understanding](https://arxiv.org/pdf/2203.01252.pdf) arXiv 2022, [**]
 
+[GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/pdf/2202.11094.pdf) CVPR 2022, [**]
+
+
 2021
 
 [Unsupervised Point Cloud Pre-Training via Occlusion Completion](https://arxiv.org/abs/2010.01089) ICCV 2021, [**]
@@ -69,9 +72,17 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 2022
 
+[An Image Patch is a Wave: Phase-Aware Vision MLP](https://arxiv.org/pdf/2111.12294.pdf)  CVPR 2022, [**]
+
+[How Do Vision Transformers Work?](https://arxiv.org/abs/2202.06709) ICLR 2022, [***]
+
 [Swin Transformer V2: Scaling Up Capacity and Resolution](https://arxiv.org/abs/2111.09883) CVPR 2022, [**]
 
 [MetaFormer is Actually What You Need for Vision](https://arxiv.org/pdf/2111.11418.pdf) CVPR 2022, [**]
+
+[UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation](https://arxiv.org/abs/2204.00631) arXiv 2022, [**]
+
+[MaxViT: Multi-Axis Vision Transformer](https://arxiv.org/pdf/2204.01697.pdf) arXiv 2022, [**]
 
 2021
 
