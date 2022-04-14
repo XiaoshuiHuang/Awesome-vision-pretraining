@@ -72,6 +72,10 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 2022
 
+[Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework](https://arxiv.org/abs/2202.07123) ICLR 2022, [*]
+
+[On Efficient Transformer-Based Image Pre-training for Low-Level Vision](https://arxiv.org/abs/2112.10175) arxiv 2022, [**]
+
 [Learning Patch-to-Cluster Attention in Vision Transformer](https://arxiv.org/pdf/2203.11987.pdf) arXiv 2022, [**]
 
 [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086) 
