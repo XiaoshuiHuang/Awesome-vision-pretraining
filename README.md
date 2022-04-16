@@ -13,6 +13,8 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 2022
 
+[SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886) CVPR 2022, [**]
+
 [Versatile Multi-Modal Pre-Training for Human-Centric Perception](https://arxiv.org/pdf/2203.13815.pdf) CVPR 2022, [***]
 
 [CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding](https://arxiv.org/pdf/2203.00680.pdf) CVPR 2022, [**]
@@ -72,6 +74,10 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 2022
 
+[Efficient Language Modeling with Sparse all-MLP](https://arxiv.org/abs/2203.06850) arXiv 2022, [**]
+
+[Neighborhood Attention Transformer](https://arxiv.org/pdf/2204.07143.pdf)arXiv 2022, [***]
+
 [Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework](https://arxiv.org/abs/2202.07123) ICLR 2022, [*]
 
 [On Efficient Transformer-Based Image Pre-training for Low-Level Vision](https://arxiv.org/abs/2112.10175) arxiv 2022, [**]
@@ -109,3 +115,6 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 [Visual Prompt Tuning](https://arxiv.org/pdf/2203.12119.pdf) arXiv 2022, [**]
 
+2021
+
+[Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/abs/2107.13586) arXiv 2021, [**]
