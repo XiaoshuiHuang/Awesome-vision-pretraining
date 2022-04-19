@@ -39,7 +39,6 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 [GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/pdf/2202.11094.pdf) CVPR 2022, [**]
 
-
 2021
 
 [Unsupervised Point Cloud Pre-Training via Occlusion Completion](https://arxiv.org/abs/2010.01089) ICCV 2021, [**]
@@ -74,6 +73,8 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 2022
 
+[Brain-inspired Multilayer Perceptron with Spiking Neurons](https://arxiv.org/pdf/2203.14679.pdf) arXiv 2022, [**]
+
 [Efficient Language Modeling with Sparse all-MLP](https://arxiv.org/abs/2203.06850) arXiv 2022, [**]
 
 [Neighborhood Attention Transformer](https://arxiv.org/pdf/2204.07143.pdf)arXiv 2022, [***]
@@ -97,6 +98,9 @@ If you want to contribute this repository, please fork and revise, and create a 
 [UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation](https://arxiv.org/abs/2204.00631) arXiv 2022, [**]
 
 [MaxViT: Multi-Axis Vision Transformer](https://arxiv.org/pdf/2204.01697.pdf) arXiv 2022, [**]
+
+[3D Shuffle-Mixer: An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume](https://arxiv.org/abs/2204.06779) arXiv 2022, [*]
+
 
 2021
 
