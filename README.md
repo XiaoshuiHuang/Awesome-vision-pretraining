@@ -115,6 +115,8 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 2022
 
+[PPT: Pre-trained Prompt Tuning for Few-shot Learning](https://arxiv.org/pdf/2109.04332.pdf) ACL 2022, [***]
+
 [Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557) CVPR 2022, [**]
 
 [Visual Prompt Tuning](https://arxiv.org/pdf/2203.12119.pdf) arXiv 2022, [**]
@@ -122,3 +124,5 @@ If you want to contribute this repository, please fork and revise, and create a 
 2021
 
 [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/abs/2107.13586) arXiv 2021, [**]
+
+[The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691) EMNLP 2021, [***]
