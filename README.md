@@ -115,6 +115,8 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 2022
 
+[P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/abs/2110.07602) ACL 2022, [**]
+
 [PPT: Pre-trained Prompt Tuning for Few-shot Learning](https://arxiv.org/pdf/2109.04332.pdf) ACL 2022, [***]
 
 [Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557) CVPR 2022, [**]
