@@ -73,6 +73,8 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 2022
 
+[Compositional Attention: Disentangling Search and Retrieval](https://openreview.net/forum?id=IwJPj2MBcIa) ICLR 2022, [**]
+
 [Brain-inspired Multilayer Perceptron with Spiking Neurons](https://arxiv.org/pdf/2203.14679.pdf) arXiv 2022, [**]
 
 [Efficient Language Modeling with Sparse all-MLP](https://arxiv.org/abs/2203.06850) arXiv 2022, [**]
