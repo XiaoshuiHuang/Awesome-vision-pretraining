@@ -13,6 +13,8 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 2022
 
+[Multi-modal Alignment using Representation Codebook](https://arxiv.org/abs/2203.00048) CVPR2022, [**]
+
 [In Defense of Image Pre-Training for Spatiotemporal Recognition](https://arxiv.org/abs/2205.01721) arXiv 2022, [**]
 
 [Omnivore: A Single Model for Many Visual Modalities](https://arxiv.org/abs/2201.08377) CVPR 2022, [**]
