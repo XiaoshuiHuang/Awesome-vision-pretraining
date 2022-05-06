@@ -13,6 +13,10 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 2022
 
+[In Defense of Image Pre-Training for Spatiotemporal Recognition](https://arxiv.org/abs/2205.01721) arXiv 2022, [**]
+
+[Omnivore: A Single Model for Many Visual Modalities](https://arxiv.org/abs/2201.08377) CVPR 2022, [**]
+
 [SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886) CVPR 2022, [**]
 
 [Versatile Multi-Modal Pre-Training for Human-Centric Perception](https://arxiv.org/pdf/2203.13815.pdf) CVPR 2022, [***]
@@ -117,6 +121,8 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 2022
 
+[Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution](https://openreview.net/forum?id=UYneFzXSJWh) ICLR 2022, [**]
+
 [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/abs/2110.07602) ACL 2022, [**]
 
 [PPT: Pre-trained Prompt Tuning for Few-shot Learning](https://arxiv.org/pdf/2109.04332.pdf) ACL 2022, [***]
@@ -126,6 +132,8 @@ If you want to contribute this repository, please fork and revise, and create a 
 [Visual Prompt Tuning](https://arxiv.org/pdf/2203.12119.pdf) arXiv 2022, [**]
 
 2021
+
+[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) ACL 2021, [**]
 
 [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/abs/2107.13586) arXiv 2021, [**]
 
