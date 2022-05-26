@@ -13,6 +13,8 @@ If you want to contribute this repository, please fork and revise, and create a 
 
 2022
 
+[Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality](https://arxiv.org/abs/2205.10063) CVPR2022,[**]
+
 [Multi-modal Alignment using Representation Codebook](https://arxiv.org/abs/2203.00048) CVPR2022, [**]
 
 [In Defense of Image Pre-Training for Spatiotemporal Recognition](https://arxiv.org/abs/2205.01721) arXiv 2022, [**]
@@ -78,6 +80,8 @@ If you want to contribute this repository, please fork and revise, and create a 
 # Model design
 
 2022
+
+[Inception Transformer](https://arxiv.org/abs/2205.12956) arXiv 2022, [**]
 
 [Compositional Attention: Disentangling Search and Retrieval](https://openreview.net/forum?id=IwJPj2MBcIa) ICLR 2022, [**]
 
